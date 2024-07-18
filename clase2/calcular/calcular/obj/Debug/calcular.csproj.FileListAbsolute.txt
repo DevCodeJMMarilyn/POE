@@ -1,0 +1,10 @@
+C:\Users\univo\Desktop\clase2\calcular\calcular\bin\Debug\calcular.exe.config
+C:\Users\univo\Desktop\clase2\calcular\calcular\bin\Debug\calcular.exe
+C:\Users\univo\Desktop\clase2\calcular\calcular\bin\Debug\calcular.pdb
+C:\Users\univo\Desktop\clase2\calcular\calcular\obj\Debug\calcular.csproj.AssemblyReference.cache
+C:\Users\univo\Desktop\clase2\calcular\calcular\obj\Debug\calcular.Properties.Resources.resources
+C:\Users\univo\Desktop\clase2\calcular\calcular\obj\Debug\calcular.csproj.GenerateResource.cache
+C:\Users\univo\Desktop\clase2\calcular\calcular\obj\Debug\calcular.csproj.CoreCompileInputs.cache
+C:\Users\univo\Desktop\clase2\calcular\calcular\obj\Debug\calcular.exe
+C:\Users\univo\Desktop\clase2\calcular\calcular\obj\Debug\calcular.pdb
+C:\Users\univo\Desktop\clase2\calcular\calcular\obj\Debug\calcular.Calcu.resources
