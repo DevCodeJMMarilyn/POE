@@ -1,0 +1,11 @@
+C:\Users\CDS2\Desktop\Practica2\Practica2POE\Practica2POE\bin\Debug\Practica2POE.exe.config
+C:\Users\CDS2\Desktop\Practica2\Practica2POE\Practica2POE\bin\Debug\Practica2POE.exe
+C:\Users\CDS2\Desktop\Practica2\Practica2POE\Practica2POE\bin\Debug\Practica2POE.pdb
+C:\Users\CDS2\Desktop\Practica2\Practica2POE\Practica2POE\obj\Debug\Practica2POE.csproj.AssemblyReference.cache
+C:\Users\CDS2\Desktop\Practica2\Practica2POE\Practica2POE\obj\Debug\Practica2POE.Encapsulamiento.Modulo.EncapsulamientoF.resources
+C:\Users\CDS2\Desktop\Practica2\Practica2POE\Practica2POE\obj\Debug\Practica2POE.Properties.Resources.resources
+C:\Users\CDS2\Desktop\Practica2\Practica2POE\Practica2POE\obj\Debug\Practica2POE.csproj.GenerateResource.cache
+C:\Users\CDS2\Desktop\Practica2\Practica2POE\Practica2POE\obj\Debug\Practica2POE.csproj.CoreCompileInputs.cache
+C:\Users\CDS2\Desktop\Practica2\Practica2POE\Practica2POE\obj\Debug\Practica2POE.exe
+C:\Users\CDS2\Desktop\Practica2\Practica2POE\Practica2POE\obj\Debug\Practica2POE.pdb
+C:\Users\CDS2\Desktop\Practica2\Practica2POE\Practica2POE\obj\Debug\Practica2POE.Polimorfismo.PolimorfismoForm.resources

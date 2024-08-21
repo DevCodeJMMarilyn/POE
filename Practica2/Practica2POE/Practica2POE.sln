@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica2POE", "Practica2POE\Practica2POE.csproj", "{D53595E9-65FD-43A7-B1BE-75D4133C927C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D53595E9-65FD-43A7-B1BE-75D4133C927C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53595E9-65FD-43A7-B1BE-75D4133C927C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53595E9-65FD-43A7-B1BE-75D4133C927C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53595E9-65FD-43A7-B1BE-75D4133C927C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5878D21C-495D-419B-819C-1CAAD68D0EE0}
+	EndGlobalSection
+EndGlobal
